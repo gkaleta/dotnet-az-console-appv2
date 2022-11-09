@@ -1,0 +1,15 @@
+/Users/gustav/Documents/app-code/dotnet-az-console-appv2/obj/Debug/net6.0/dotnet-az-console-appv2.csproj.AssemblyReference.cache
+/Users/gustav/Documents/app-code/dotnet-az-console-appv2/obj/Debug/net6.0/dotnet-az-console-appv2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gustav/Documents/app-code/dotnet-az-console-appv2/obj/Debug/net6.0/dotnet-az-console-appv2.AssemblyInfoInputs.cache
+/Users/gustav/Documents/app-code/dotnet-az-console-appv2/obj/Debug/net6.0/dotnet-az-console-appv2.AssemblyInfo.cs
+/Users/gustav/Documents/app-code/dotnet-az-console-appv2/obj/Debug/net6.0/dotnet-az-console-appv2.csproj.CoreCompileInputs.cache
+/Users/gustav/Documents/app-code/dotnet-az-console-appv2/bin/Debug/net6.0/dotnet-az-console-appv2
+/Users/gustav/Documents/app-code/dotnet-az-console-appv2/bin/Debug/net6.0/dotnet-az-console-appv2.deps.json
+/Users/gustav/Documents/app-code/dotnet-az-console-appv2/bin/Debug/net6.0/dotnet-az-console-appv2.runtimeconfig.json
+/Users/gustav/Documents/app-code/dotnet-az-console-appv2/bin/Debug/net6.0/dotnet-az-console-appv2.dll
+/Users/gustav/Documents/app-code/dotnet-az-console-appv2/bin/Debug/net6.0/dotnet-az-console-appv2.pdb
+/Users/gustav/Documents/app-code/dotnet-az-console-appv2/obj/Debug/net6.0/dotnet-az-console-appv2.dll
+/Users/gustav/Documents/app-code/dotnet-az-console-appv2/obj/Debug/net6.0/refint/dotnet-az-console-appv2.dll
+/Users/gustav/Documents/app-code/dotnet-az-console-appv2/obj/Debug/net6.0/dotnet-az-console-appv2.pdb
+/Users/gustav/Documents/app-code/dotnet-az-console-appv2/obj/Debug/net6.0/dotnet-az-console-appv2.genruntimeconfig.cache
+/Users/gustav/Documents/app-code/dotnet-az-console-appv2/obj/Debug/net6.0/ref/dotnet-az-console-appv2.dll
